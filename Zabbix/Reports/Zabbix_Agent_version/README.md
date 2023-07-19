@@ -1,3 +1,5 @@
+# Zabbix agent version check
+
 Script for check last_value for item: Example: Version of zabbix_agent
 in this case I check if the zabbix agent is up to date.
 
