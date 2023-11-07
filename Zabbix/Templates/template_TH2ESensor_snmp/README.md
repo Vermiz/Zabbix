@@ -4,7 +4,12 @@
 Zabbix template for TH2E Sensor  
 Web site sensore: https://en.papouch.com/th2e-ethernet-thermometer-and-hygrometer-p4825/  
 
-### Author
+Test on: Zabbix 6.0
+
+The template monitors the TH2E device, which is used to monitor the environment. This device monitors temperature and humidity.
+
+
+## Author
 Kamil Gołuchowski
 
 ## Setup
